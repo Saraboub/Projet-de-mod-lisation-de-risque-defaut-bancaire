@@ -1,6 +1,6 @@
 # Modélisation du risque de défaut de paiement bancaire
 
-Projet réalisé dans le cadre de [nom du cours / M2 Financial Engineering & Fintech, ESC Clermont].
+Projet réalisé dans le cadre de [ BASE DE DONNEES ET DATA SCIENCES / M1 Finance, ENCG Settat].
 
 ## Contexte
 Analyse et modélisation du risque de défaut sur une base simulée de 4 000 clients bancaires.
@@ -18,9 +18,9 @@ Analyse et modélisation du risque de défaut sur une base simulée de 4 000 cli
 - Random Forest : performances quasi parfaites (accuracy 1.00, ROC-AUC 1.00) — à interpréter avec prudence sur un dataset simulé
 
 ## Contenu du repo
-- `notebook.ipynb` : code complet (Python, pandas, scikit-learn)
-- `rapport.pdf` : rapport détaillé
-- `presentation.pptx` : support de présentation
+- `projet_data.ipynb` : code complet (Python, pandas, scikit-learn)
+- `Rapport-data.pdf` : rapport détaillé
+- `presentation projet data.pptx` : support de présentation
 - `dataset_bancaire.csv` : jeu de données (simulé)
 
 ## Outils
